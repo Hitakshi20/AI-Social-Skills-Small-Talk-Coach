@@ -1,0 +1,18 @@
+# Recruiter Networking Scenario
+scenario: "Recruiter Coffee Chat"
+description: "Practice introducing yourself and discussing your projects with a recruiter."
+
+dialogue:
+  - bot: "Hi, I’m Sarah, a campus recruiter. Nice to meet you! Could you tell me a little about yourself?"
+    user: "__user_response__"
+
+  - bot: "That’s great. What kind of projects or experiences have you worked on that you’re most proud of?"
+    user: "__user_response__"
+
+  - bot: "Interesting! What are you hoping to explore in your next role or internship?"
+    user: "__user_response__"
+
+  - bot: "Thanks for sharing. Do you have any questions for me about the company or role?"
+    user: "__user_response__"
+
+end_note: "This scenario helps practice a common career fair conversation flow. Feedback will highlight confidence, engagement, and specificity."
