@@ -1,0 +1,6 @@
+streamlit
+spacy
+vaderSentiment
+python
+pandas
+plotly
