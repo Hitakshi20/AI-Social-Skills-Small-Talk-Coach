@@ -1,4 +1,4 @@
-# AI Social & Networking Skills Coach
+# AI Social & Networking Skills Coach - IceBreakr
 
 ## 📌 Problem Statement
 In today’s 2025 job market, **networking is just as important as technical skills**. Recruiters consistently rank *communication, confidence, and collaboration* as top factors in hiring decisions.  
