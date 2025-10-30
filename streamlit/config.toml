@@ -1,0 +1,7 @@
+[theme]
+base="light"
+primaryColor="#6C63FF"         # accent (buttons, focus)
+backgroundColor="#ffffff"
+secondaryBackgroundColor="#f7f7fb"
+textColor="#23262F"
+font="sans serif"
