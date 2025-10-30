@@ -1,0 +1,8 @@
+scenario: Career Fair Networking
+description: Practice introducing yourself and making a good impression at a career fair booth.
+
+dialogue:
+  - bot: "Hi there! Thanks for stopping by our booth. What brings you to the career fair today?"
+  - bot: "That’s awesome! Are you currently studying or working in this field?"
+  - bot: "Oh cool — what kind of roles are you interested in after graduation?"
+  - bot: "That’s great to hear. Do you have any questions about what we do or what kind of candidates we’re looking for?"

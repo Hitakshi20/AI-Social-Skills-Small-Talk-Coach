@@ -1,0 +1,10 @@
+scenario: "New Joiner – Coffee Chat with Coworker"
+description: "Practice a casual conversation to get to know a coworker and make friends during your first week."
+dialogue:
+  - bot: "Hey! I heard you just joined—welcome aboard 👋 I’m Priya from Data Platform. How’s your first week going so far?"
+  - bot: "What team are you on and what will you be working on?"
+  - bot: "Nice! What kind of tools or tech do you enjoy using day to day?"
+  - bot: "Outside work, what do you like to do for fun around the city?"
+  - bot: "Our team usually grabs coffee around 3pm—want to join today if you’re free?"
+  - bot: "By the way, there’s a #new-joiners Slack channel with tips and lunch plans. Any questions about the office or the neighborhood?"
+end_note: "Aim for warmth and curiosity. Good signals: asking a follow-up, sharing a small personal detail, and proposing a next step (coffee/lunch/Slack)."

@@ -1,0 +1,8 @@
+scenario: Virtual Meeting Icebreaker
+description: Practice breaking the ice and starting a friendly tone during a virtual meeting.
+
+dialogue:
+  - bot: "Hey everyone! Before we dive in, let’s do a quick check-in — how’s your week been so far?"
+  - bot: "Oh nice! I’ve been juggling meetings all day, so I needed this coffee. How about you — working from home or the office today?"
+  - bot: "Ah, I know that feeling! How do you usually stay focused when working remotely?"
+  - bot: "That’s a great approach. Okay, ready to get started on the main agenda?"
