@@ -17,8 +17,8 @@ source venv/bin/activate   # or venv\Scripts\activate on Windows
 # Install requirements
 pip install -r requirements.txt
 ```
+**Run the app:**
 ```
-Run the app:
 streamlit run app.py
 ```
 ## 💬 Using IceBreakr
@@ -90,5 +90,5 @@ An AI-powered chatbot I’m currently building to help users:
 IceBreakr helps you practice the human side of career growth — the conversations that build trust, confidence, and connections.
 Practice real conversations before they happen, and grow your confidence one chat at a time.
 
-#### Thank you for viewing my project! ####
+**Thank you for viewing my project** 
 Built with curiosity and empathy to help people connect better — professionally and personally 💬
