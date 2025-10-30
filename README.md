@@ -54,16 +54,22 @@ Specificity: 8/10
 ## 📂 Project Structure
 ```
 IceBreakr/
-├── app.py                     # Main Streamlit app
+├── app.py
 ├── core/
-│   ├── analyzer.py             # Text analysis and logic
-│   ├── scorer.py               # Confidence & engagement scoring
-│   ├── tips.py                 # Generates personalized feedback tips
+│   ├── analyzer.py
+│   ├── scorer.py
+│   └── tips.py
 ├── knowledge/
-│   └── scenarios/              # Conversation YAML files
-├── data/                       # Local session data
+│   ├── career_fair_networking.yaml
+│   ├── recruiter_coffee_chat.yaml
+│   └── new_joiner_chat.yaml
+├── data/
+│   └── sample screenshots 
+├── .streamlit/
+│   └── config.toml
 ├── requirements.txt
 └── README.md
+
 ```
 ## 🎯 Goal
 An AI-powered chatbot I’m currently building to help users:  
